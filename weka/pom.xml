@@ -391,7 +391,7 @@
     <dependency>
       <groupId>com.github.vbmacher</groupId>
       <artifactId>java-cup</artifactId>
-      <version>11b-20160615</version>
+      <version>11b</version>
       <scope>compile</scope>
     </dependency>
 
