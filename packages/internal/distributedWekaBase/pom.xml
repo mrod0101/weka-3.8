@@ -131,7 +131,7 @@ This package provides generic configuration class and distributed map/reduce sty
     <dependency>
       <groupId>com.tdunning</groupId>
       <artifactId>t-digest</artifactId>
-      <version>3.1</version>
+      <version>3.3</version>
     </dependency>
 
     <dependency>
