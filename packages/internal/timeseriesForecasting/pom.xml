@@ -107,7 +107,7 @@ Provides a time series forecasting environment for Weka. Includes a wrapper for 
     <dependency>
       <groupId>commons-codec</groupId>
       <artifactId>commons-codec</artifactId>
-      <version>1.3</version>
+      <version>1.15</version>
     </dependency>
 
     <dependency>
