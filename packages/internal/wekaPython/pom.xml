@@ -107,12 +107,12 @@ Integration with CPython for Weka. Python version 2.7.x or higher is required. A
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.10.1</version>
+      <version>2.15.0</version>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.module</groupId>
       <artifactId>jackson-module-parameter-names</artifactId>
-      <version>2.10.1</version>
+      <version>2.15.0</version>
     </dependency>
 
     <dependency>
