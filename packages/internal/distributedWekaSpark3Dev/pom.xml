@@ -107,25 +107,25 @@ This package provides Spark wrappers for the classes in distributedWekaBase. Inc
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-core_2.12</artifactId>
-      <version>3.0.0</version>
+      <version>3.5.7</version>
     </dependency>
 
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-streaming_2.12</artifactId>
-      <version>3.0.0</version>
+      <version>3.5.7</version>
     </dependency>
 
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-sql_2.12</artifactId>
-      <version>3.0.0</version>
+      <version>3.5.7</version>
     </dependency>
 
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-mllib_2.12</artifactId>
-      <version>3.0.0</version>
+      <version>3.5.7</version>
     </dependency>
 
     <dependency>
